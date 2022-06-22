@@ -1,0 +1,31 @@
+#titre1{
+    margin-left: 600px;
+    font-size: 60px;
+    font-weight: 100;
+    color: black;
+    font-style: italic;
+}
+#titre2{
+    margin-left: 680px;
+    font-size: 30px;
+    font-weight: 70;
+    color: black; 
+    font-style: italic;
+}
+
+#p1{
+    color: black;
+    font-size: x-large;
+    font-style: normal;
+    text-align: center;
+}
+#T1{
+    color: black;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+
+}
+.div1{
+    font-size: large;
+}
